@@ -1,0 +1,7 @@
+{
+    "folder-path-color.folders": [
+        { "path": "src/client", "color": "cyan", "symbol": "CL"},
+        { "path": "src/server", "color": "green", "symbol": "SE"},
+        { "path": "src/shared", "color": "magenta", "symbol": "SH"},
+    ]
+}

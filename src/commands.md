@@ -1,0 +1,1 @@
+bundle: browserify view.js -o bundle.js
